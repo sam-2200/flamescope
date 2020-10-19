@@ -23,4 +23,4 @@ fn main() {
 ## License
 
 This project is licensed under the MIT license. Please see the
-[LICENSE](LICENSE) file for more details.
+[LICENSE MIT](LICENSE) file for more details.
